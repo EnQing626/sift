@@ -1,8 +1,4 @@
 //vs2010+opencv2.2
-//zdd
-//Just For Fun
-//zddmail@gmail.com
-//2012Äê5ÔÂ17ÈÕ16:16:11
 
 #ifndef SIFT_H
 #define SIFT_H
